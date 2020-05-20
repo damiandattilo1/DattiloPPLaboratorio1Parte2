@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1589829963 source:c:\users\damia\documents\damian\programacion utn\programacion 1\primerparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+
+1589827980 c:\users\damia\documents\damian\programacion utn\programacion 1\primerparciallaboratorio1\datawarehouse.h
+
+1589903668 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1\primerparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dawawarehouse3.h"
+	"funcionesMoto.h"
+
+1589836454 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1\primerparciallaboratorio1\datawarehouse.h
+
+1589900974 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1\primerparciallaboratorio1\funcionesmoto.h
+
+1589903128 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1\primerparciallaboratorio1\funcionesmoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesMoto.h"
+
+1589901772 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio 1\primerparciallaboratorio1\dawawarehouse3.h
+
+1589903130 source:d:\backup damian programacion\damian\programacion utn\primer parcial laboratorio 1 con bibliotecas\primerparciallaboratorio1\funcionesmoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesMoto.h"
+
+1589900976 d:\backup damian programacion\damian\programacion utn\primer parcial laboratorio 1 con bibliotecas\primerparciallaboratorio1\funcionesmoto.h
+
+1589903670 source:d:\backup damian programacion\damian\programacion utn\primer parcial laboratorio 1 con bibliotecas\primerparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dawawarehouse3.h"
+	"funcionesMoto.h"
+
+1589901774 d:\backup damian programacion\damian\programacion utn\primer parcial laboratorio 1 con bibliotecas\primerparciallaboratorio1\dawawarehouse3.h
+
+1589980656 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\funcionesmoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesMoto.h"
+
+1589979851 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\funcionesmoto.h
+
+1589985678 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dawawarehouse3.h"
+	"funcionesMoto.h"
+	"informes.h"
+
+1589979744 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\dawawarehouse3.h
+
+1589985510 source:c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesMoto.h"
+	"informes.h"
+
+1589985510 c:\users\damia\documents\damian\programacion utn\primer parcial laboratorio nuevo\primerparciallaboratorio1\informes.h
+
